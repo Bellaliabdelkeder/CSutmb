@@ -4,19 +4,6 @@ A structured and collaborative repository for sharing **TD, TP, TEST,
 and EXAM** materials.
 
 ------------------------------------------------------------------------
-
-## 📂 Repository Structure
-
-Each subject folder must follow this structure:
-
-    Subject/
-     ├── TD/
-     ├── TP/
-     ├── TEST/
-     └── EXAM/
-
-------------------------------------------------------------------------
-
 ## 📌 File Naming Convention
 
 All uploaded files must follow this format:
